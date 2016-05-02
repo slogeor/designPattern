@@ -42,7 +42,7 @@
 
 #### 结构
 
-!(../images/singleton.struct.png)
+![结构图](../images/singleton.struct.png)
 
 #### 实现
 
@@ -79,5 +79,3 @@ Singletom 模式只考虑到了对象创建的管理，没有考虑对象销毁�
 #### 总结
 
 JavaScript 借助于必包实现单例模式，从而控制对象实例个数。
-
-

@@ -16,15 +16,15 @@
 
 #### 推荐书籍
 
-《设计模式：可复用面向对象软件的基础》GoF
+<a href="http://item.jd.com/10057319.html" target="_blank">《设计模式：可复用面向对象软件的基础》GoF </a>
 
-《面向对象分析与设计》Grady Booch
+<a href="http://item.jd.com/10155890.html" target="_blank">《面向对象分析与设计》Grady Booch</a>
 
-《敏捷软件开发：原则、模式与实践》Robert C. Martin
+<a href="http://item.jd.com/1361382235.html" target="_blank">《敏捷软件开发：原则、模式与实践》Robert C. Martin</a>
 
-《重构：改善既有代码的设计》Martin Fowler
+<a href="http://item.jd.com/11728740.html" target="_blank">《重构：改善既有代码的设计》Martin Fowler</a>
 
-《Refactoringto Patterns 》JoshuaKerievsky
+<a href="http://item.jd.com/1104213672.html" target="_blank">《Refactoringto Patterns 》JoshuaKerievsky</a>
 
 ### 单例模式
 
@@ -42,7 +42,7 @@
 
 #### 结构
 
-(../images/singleton.struct.png)
+!(../images/singleton.struct.png)
 
 #### 实现
 
@@ -50,7 +50,7 @@
 
 在JavaScript里，单例作为一个命名空间提供者，从全局命名空间里提供一个唯一的访问点来访问该对象。
 
- <a href="./index.js" target="_blank">单例模式</a>
+ <a href="./index.js" target="_blank">单例模式实现</a>
 
 #### 几个要点
 

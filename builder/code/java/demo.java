@@ -2,28 +2,22 @@
 // 系统接口部分
 
 public abstract House() {
-  
 }
 
 //可有可无
 public abstract class Door(){
-  
 }
 
 public abstract class Wall(){
-  
 }
 
 public abstract class Windows(){
-  
 }
 
 public abstract class Floor(){
-  
 }
 
 public abstract class HouseCeiling(){
-  
 }
 
 public abstract class Builder() {

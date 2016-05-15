@@ -1,10 +1,9 @@
 //Buider.java
 // 系统接口部分
 
-public abstract House() {
+public abstract class House() {
 }
 
-//可有可无
 public abstract class Door(){
 }
 
@@ -32,7 +31,6 @@ public abstract class Builder() {
 
 //GameManager.java
 //相对比较稳定
-
 public class GameManager {
   public static House CreateHouse(Bulider builder) {
     builder.BuildDoor();
@@ -56,7 +54,6 @@ public class GameManager {
 
 //RomanHouse.java
 //客户程序
-
 public class RomanHouse extend House {
   
 }

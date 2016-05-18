@@ -7,3 +7,5 @@
 * <a href="http://slogeor.com/2016/05/08/abstract-factory.html" target="_blank">抽象工程模式</a>
 
 * <a href="http://slogeor.com/2016/05/12/builder.html" target="_blank">生成器模式</a>
+
+* <a href="http://slogeor.com/2016/05/12/factory-method.html" target="_blank">工厂方法模式</a>

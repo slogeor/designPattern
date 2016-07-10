@@ -4,7 +4,7 @@
 
 适配，即在不改变原有实现的基础上，将原先不兼容的接口转换为兼容的接口
 
-![图1](../images/adapter.01.png) ![图2](../images/adapter.02.png) ![图3](../images/adapter.03.png)
+![图2](../images/adapter.02.png) ![图3](../images/adapter.03.png)
 
 适配器模式（Adapter）是将一个类（对象）的接口（方法或属性）转化成客户希望的另外一个接口（方法或属性），适配器模式使得原本由于接口不兼容而不能一起工作的那些类（对象）可以一些工作，速成包装器（wrapper）
 

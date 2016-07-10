@@ -17,7 +17,6 @@ public class T75 extend Tank {
     public override void Stop() {}
 }
 
-
 public class PCT50 extend T50 {
     //...
 }
@@ -27,6 +26,11 @@ public class MobileT50 extend T50 {
 }
 
 //==================================
+public abstract class TankPlatFormImplementation {
+    public abstrac void MoveTankTo(Point to);
+    public abstrac void DrawTank(); 
+    public abstrac void DoShot();
+}
 
 public abstract class Tank {
     protected TankPlatFormImplementation tankImpl;
@@ -64,14 +68,6 @@ public class T75 extend Tank {
     public override void Stop() {}
 }
 
-
- 
-public abstract class TankPlatFormImplementation {
-    public abstrac void MoveTankTo(Point to);
-    public abstrac void DrawTank(); 
-    public abstrac void DoShot();
-}
-
 public class PCTankImplementation extend TankPlatFormImplementation {
     public override void MoveTankTo(Point to) {}
     public override void DrawTank() {}
@@ -84,11 +80,10 @@ public class MobileTankImplementation extend TankPlatFormImplementation {
     public override void DoShot() {}
 }
 
-
 public class App() {
     public static void Main() {
         TankPlatFormImplementation tankImpl = new MobileTankImplementation();
-
-        T50 tank = new T50(tankImpl)
+        T50 tank = new T50(tankImpl);
+        //...
     }
 }

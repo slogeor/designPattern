@@ -13,3 +13,5 @@
 * <a href="http://slogeor.com/2016/05/23/prototype-method.html" target="_blank">原型模式</a>
 
 * <a href="http://slogeor.com/2016/06/18/create-pattern.html" target="_blank">创建型模式</a>
+
+* <a href="http://slogeor.com/2016/07/10/adapter.html" target="_blank">适配器模式</a>

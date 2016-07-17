@@ -46,7 +46,7 @@ if (box is ContainerBox){
 
 #### 结构
 
-![结构图](../images/Composite.01.png)
+![结构图](../images/composite.01.png)
 
 #### 几个要求
 

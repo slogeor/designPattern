@@ -17,3 +17,5 @@
 * <a href="http://slogeor.com/2016/07/10/adapter.html" target="_blank">适配器模式</a>
 
 * <a href="http://slogeor.com/2016/07/10/bridge.html" target="_blank">桥接模式</a>
+
+* <a href="http://slogeor.com/2016/07/31/facade.html" target="_blank">外观模式</a>

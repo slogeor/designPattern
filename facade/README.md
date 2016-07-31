@@ -2,6 +2,7 @@
 
 假设我们需要开发一个坦克模拟系统用于模拟坦克车在各种作战环境中的行为，其中坦克系统由引擎、控制器、车轮、车身等各子系统构成。
 
+```java
 public class Wheel {
     public void WAction1() {
         //todo
@@ -37,12 +38,13 @@ public class Controller {
         //todo
     }
 }
+```
 
 ### 如何使用这样的系统
 
-方案 A                         方案 B 
-
 ![结构图](../images/facade.01.png)
+
+上图左边为方案A，右边为方案B。
 
 ### 动机（Motivation）
 
